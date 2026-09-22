@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Playlist
 1. une chanson que tout le monde connaît
+=======
+2. la chanson de l'été
+>>>>>>> b4864bc8ca8734e8b630802526dee1d1c3a97a47
